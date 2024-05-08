@@ -1,6 +1,6 @@
 ### Bem vindo ao meu perfil 👋
 
-Meu nome é Nathan
+Me chamo Nathan
 
 - Cursando Alura
 - Iniciante em JavaScript
