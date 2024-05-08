@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bem vindo ao meu perfil 👋
 
-<!--
-**Naath69/Naath69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Nathan
 
-Here are some ideas to get you started:
+- Cursando Alura
+- Iniciante em JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento de projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo aqui 📬
+
+nathanssilva2020@gmail.com
+
+![](https://mail.google.com/mail/u/0?ui=2&ik=1ec93b6379&attid=0.1&permmsgid=msg-a:r879148217753526530&th=18f57f394da79f23&view=att&disp=safe&realattid=18f57f355761dc442e91)
