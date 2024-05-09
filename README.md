@@ -2,7 +2,7 @@
 
 Me chamo Nathan
 
-- Cursando Alura
+- Cursando [Alura](https://www.alura.com)
 - Iniciante em JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento de projetos
 
